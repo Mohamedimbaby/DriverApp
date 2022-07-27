@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "824772342586",
+    "project_id": "dilveryapp",
+    "storage_bucket": "dilveryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824772342586:android:cbaa66bb0c2932c1fc9603",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824772342586-vqk7jpetiqotju8f7stf2v80fpbbbs9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2q_KKcXc5SO0hHBNHDzfCKQkwv32_iFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824772342586-vqk7jpetiqotju8f7stf2v80fpbbbs9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824772342586-v3mr6orka0smfhdt5hvknm89miug2br4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodExDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824772342586:android:c54c28478b2625ecfc9603",
+        "android_client_info": {
+          "package_name": "com.inilabs.foodbank.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824772342586-vqk7jpetiqotju8f7stf2v80fpbbbs9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2q_KKcXc5SO0hHBNHDzfCKQkwv32_iFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824772342586-vqk7jpetiqotju8f7stf2v80fpbbbs9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824772342586-v3mr6orka0smfhdt5hvknm89miug2br4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodExDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
